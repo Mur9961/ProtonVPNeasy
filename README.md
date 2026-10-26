@@ -1,0 +1,1 @@
+这是一个使用ProtonVPN下的openvpn账户共享给局域网设备使用的软件
